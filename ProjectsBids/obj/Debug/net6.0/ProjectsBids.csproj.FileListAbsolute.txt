@@ -1,0 +1,14 @@
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\bin\Debug\net6.0\ProjectsBids.exe
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\bin\Debug\net6.0\ProjectsBids.deps.json
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\bin\Debug\net6.0\ProjectsBids.runtimeconfig.json
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\bin\Debug\net6.0\ProjectsBids.dll
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\bin\Debug\net6.0\ProjectsBids.pdb
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.GeneratedMSBuildEditorConfig.editorconfig
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.AssemblyInfoInputs.cache
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.AssemblyInfo.cs
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.csproj.CoreCompileInputs.cache
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.dll
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\refint\ProjectsBids.dll
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.pdb
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ProjectsBids.genruntimeconfig.cache
+C:\www VS projects\AlgorithmicTasks\ProjectsBids\obj\Debug\net6.0\ref\ProjectsBids.dll
