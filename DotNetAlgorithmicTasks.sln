@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonSubstring", "CommonSubstrings\CommonSubstring.csproj", "{4C68D31B-E3AE-4A63-84CB-966DFEAF9234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectsBids", "ProjectsBids\ProjectsBids.csproj", "{5BCF029E-D290-4356-866A-91F397ABDF08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectsBids", "ProjectsBids\ProjectsBids.csproj", "{5BCF029E-D290-4356-866A-91F397ABDF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBinaryAndLinearSearch", "ArrayBinaryAndLinearSearch\ArrayBinaryAndLinearSearch.csproj", "{EFEBDA04-7456-4910-B91E-E18F9A83592C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5BCF029E-D290-4356-866A-91F397ABDF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCF029E-D290-4356-866A-91F397ABDF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCF029E-D290-4356-866A-91F397ABDF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEBDA04-7456-4910-B91E-E18F9A83592C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEBDA04-7456-4910-B91E-E18F9A83592C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEBDA04-7456-4910-B91E-E18F9A83592C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEBDA04-7456-4910-B91E-E18F9A83592C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\www VS projects\\AlgorithmicTasks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BCF029E-D290-4356-866A-91F397ABDF08}|ProjectsBids\\ProjectsBids.csproj|c:\\www vs projects\\algorithmictasks\\projectsbids\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF029E-D290-4356-866A-91F397ABDF08}|ProjectsBids\\ProjectsBids.csproj|solutionrelative:projectsbids\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEBDA04-7456-4910-B91E-E18F9A83592C}|ArrayBinaryAndLinearSearch\\ArrayBinaryAndLinearSearch.csproj|c:\\www vs projects\\algorithmictasks\\arraybinaryandlinearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEBDA04-7456-4910-B91E-E18F9A83592C}|ArrayBinaryAndLinearSearch\\ArrayBinaryAndLinearSearch.csproj|solutionrelative:arraybinaryandlinearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C68D31B-E3AE-4A63-84CB-966DFEAF9234}|CommonSubstrings\\CommonSubstring.csproj|c:\\www vs projects\\algorithmictasks\\commonsubstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C68D31B-E3AE-4A63-84CB-966DFEAF9234}|CommonSubstrings\\CommonSubstring.csproj|solutionrelative:commonsubstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -95,12 +103,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\www VS projects\\AlgorithmicTasks\\ProjectsBids\\Result.cs",
+              "RelativeDocumentMoniker": "ProjectsBids\\Result.cs",
+              "ToolTip": "C:\\www VS projects\\AlgorithmicTasks\\ProjectsBids\\Result.cs",
+              "RelativeToolTip": "ProjectsBids\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:49:33.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\www VS projects\\AlgorithmicTasks\\ArrayBinaryAndLinearSearch\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayBinaryAndLinearSearch\\Program.cs",
+              "ToolTip": "C:\\www VS projects\\AlgorithmicTasks\\ArrayBinaryAndLinearSearch\\Program.cs",
+              "RelativeToolTip": "ArrayBinaryAndLinearSearch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:45:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\www VS projects\\AlgorithmicTasks\\CommonSubstrings\\Program.cs",
               "RelativeDocumentMoniker": "CommonSubstrings\\Program.cs",
               "ToolTip": "C:\\www VS projects\\AlgorithmicTasks\\CommonSubstrings\\Program.cs",
               "RelativeToolTip": "CommonSubstrings\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T16:02:18.444Z",
               "EditorCaption": ""
